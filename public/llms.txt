@@ -1,57 +1,47 @@
-# ונטורה רואי חשבון ושות' — Generative Engine Optimization Map
-
-> Ventura Accounting is a professional accounting firm led by Moran Ventura, serving the Pardes Hanna area. The firm emphasizes personal service, high availability, and quick response times. With a perfect 5.0-star rating based on client reviews, the brand conveys trustworthiness, professionalism, fair pricing, and a pleasant atmosphere. The firm specializes in serving freelancers and small to medium-sized businesses with comprehensive accounting services.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://-1b12ece8.zappy5.app
+https://example.com
 משרד רואי חשבון מוביל בפרדס חנה המתמחה בשירות לעצמאים ועסקים קטנים. דירוג מושלם 5 כוכבים, מחירים הוגנים וזמינות מיידית. התחילו עכשיו!
 
 ### שירותים
-https://-1b12ece8.zappy5.app/services
+https://example.com/services
 פתיחת תיק עוסק מורשה, ייעוץ מס, דוחות כספיים ומע״מ, ייצוג מול רשויות המס ועוד. שירות מקצועי ומהיר לעסקים קטנים ובינוניים. פנו אלינו היום!
 
 ### אודות
-https://-1b12ece8.zappy5.app/about
+https://example.com/about
 הכירו את מורן ונטורה ואת משרדנו המקצועי. אנחנו מספקים שירות אישי, אמינות ומחירים הוגנים לעסקים בפרדס חנה והסביבה. גלו למה לקוחותינו מעניקים לנו 5 כוכבים!
 
 ### צור קשר
-https://-1b12ece8.zappy5.app/contact
+https://example.com/contact
 זקוקים לרואה חשבון מקצועי? אנחנו זמינים עבורכם עם מענה מהיר ושירות אישי. צרו קשר עכשיו לייעוץ ראשוני ללא התחייבות ונתחיל לעבוד ביחד!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-1b12ece8.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-1b12ece8.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-1b12ece8.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About ונטורה רואי חשבון ושות'
-Ventura Accounting is a professional accounting firm led by Moran Ventura, serving the Pardes Hanna area. The firm emphasizes personal service, high availability, and quick response times. With a perfect 5.0-star rating based on client reviews, the brand conveys trustworthiness, professionalism, fair pricing, and a pleasant atmosphere. The firm specializes in serving freelancers and small to medium-sized businesses with comprehensive accounting services.
-
-## Target Audience
-עצמאים, בעלי עסקים קטנים ובינוניים ותושבי פרדס חנה והסביבה
-
-## Industry
-שירותי חשבונאות ומיסוי
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-1b12ece8.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-1b12ece8.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
