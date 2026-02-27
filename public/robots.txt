@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://-1b12ece8.zappy5.app/sitemap.xml
